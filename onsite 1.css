@@ -1,0 +1,22 @@
+.heading{
+	color: white;
+	text-align: center;
+}
+.button1{
+	background-color: orange;
+}
+.bagian1{
+	background-color: white;
+	color: black;
+	text-align: center;
+}
+.button2{
+	color: orange;
+	border-color: orange;
+	background-color: white;
+}
+.bagian2{
+	background-color: #efefef
+	color:black;
+	text-align: center;
+}
